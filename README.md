@@ -1,7 +1,6 @@
 # Hi there 🚀
 
-I am Esteban Duran. I am from [Austin, Texas](https://img.shields.io/badge/-@Harshkhatri24-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Harshkhatri24)](https://twitter.com/Harshkhatri24)
-
+I am Esteban Duran. I am from Austin, Texas (Alright, Alright, Alright). Currently I am working as a spacecraft flight software engineer at Emergent Space Technologies.
 <!--
 **esduran/esduran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
