@@ -1,4 +1,6 @@
-# Hi there, I'm Esteban 🚀
+# Hi there 🚀
+
+I am Esteban Duran. I am from [Austin, Texas](https://img.shields.io/badge/-@Harshkhatri24-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Harshkhatri24)](https://twitter.com/Harshkhatri24)
 
 <!--
 **esduran/esduran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
