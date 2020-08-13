@@ -10,6 +10,6 @@ Upon graduation, I worked as a flight software engineer at [Firefly Aerospace](h
 
 Now I am a 🛰 flight software engineer at [Emergent Space Technologies](https://www.emergentspace.com/) working on cool spacecraft projects and missions.
 
-I have a passion for embedded systems and reinforcement learning. My goal is to be able to advance the state-of-the-art in spacecraft autonomy by incorporating modern machine learning and reinforcement learning techniques on resource-constrained spacecraft.
+___
 
 ### Checkout My Projects 👇
