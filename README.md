@@ -12,3 +12,4 @@ Now I am a 🛰 flight software engineer at [Emergent Space Technologies](https:
 
 I have a passion for embedded systems and reinforcement learning. My goal is to be able to advance the state-of-the-art in spacecraft autonomy by incorporating modern machine learning and reinforcement learning techniques on resource-constrained spacecraft.
 
+### Checkout My Projects 👇
