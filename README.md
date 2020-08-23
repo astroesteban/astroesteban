@@ -7,6 +7,10 @@ Software Engineer at [Emergent Space Technologies](https://www.emergentspace.com
   <img align="left" alt="Esteban Duran | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
+<a href="https://linkedin.com/in/estebanduran">
+  <img align="left" alt="Esteban Duran | LinkedIn" width="21px" src="https://github.com/esduran/esduran/blob/master/assets/LI-In-Bug.png" />
+</a>
+
 <br />
 
 ## About
