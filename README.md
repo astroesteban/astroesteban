@@ -3,7 +3,12 @@ ___
 
 Software Engineer at [Emergent Space Technologies](https://www.emergentspace.com/)
 
-<img src="https://img.shields.io/badge/<[spacesteban](https://twitter.com/spacesteban)>%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+<a href="https://twitter.com/spacesteban">
+  <img align="left" alt="Esteban Duran | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://discord.gg/spacesteban#3922">
+  <img align="left" alt="Esteban's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+</a>
 
 ## About
 
@@ -22,6 +27,12 @@ My hobbies are reading books, collecting vinyl records, going to concerts, and s
 
 * **[NASA Swarmathon](http://nasaswarmathon.com)**, 2016-2018
 * **[NCAS](http://nas.okstate.edu/ncas/)**, 2015
+
+### Programming Languages
+
+<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+
 ___
 
 ### Checkout My Projects 👇 (🚧 Currently Remodeling 🚧)
