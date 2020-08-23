@@ -3,6 +3,10 @@ ___
 
 Software Engineer at [Emergent Space Technologies](https://www.emergentspace.com/) 🛰️
 
+<a href="https://nasa.gov">
+  <img align="left" alt="I Love NASA" width="21px" src="https://github.com/esduran/esduran/blob/master/assets/2850_Nasa.png" />
+</a>
+
 <a href="https://twitter.com/spacesteban">
   <img align="left" alt="Esteban Duran | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
