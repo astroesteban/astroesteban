@@ -3,7 +3,7 @@ ___
 
 Software Engineer at [Emergent Space Technologies](https://www.emergentspace.com/)
 
-<img src="https://img.shields.io/badge/<spacesteban>%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+<img src="https://img.shields.io/badge/<[spacesteban](https://twitter.com/spacesteban)>%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
 
 ## About
 
