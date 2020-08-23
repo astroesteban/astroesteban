@@ -17,7 +17,7 @@ Software Engineer at [Emergent Space Technologies](https://www.emergentspace.com
 
 <br />
 
-## About
+## About 🤖
 
 I am a 🇲🇽 software engineer working in Austin, Texas. I have gotten to work on a variety of cool space projects including autonomous testing software for rocket engines, deep learning for training 👩‍🚀 in hybrid reality, and recently writing software for rockets and spacecraft.
 
