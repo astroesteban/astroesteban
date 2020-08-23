@@ -6,9 +6,6 @@ Software Engineer at [Emergent Space Technologies](https://www.emergentspace.com
 <a href="https://twitter.com/spacesteban">
   <img align="left" alt="Esteban Duran | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-<a href="https://discord.gg/spacesteban#3922">
-  <img align="left" alt="Esteban's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
 
 ## About
 
