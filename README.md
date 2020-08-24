@@ -23,7 +23,7 @@ Software Engineer at [Emergent Space Technologies](https://www.emergentspace.com
 
 ## About 🤖
 
-I am a 🇲🇽 software engineer working in Austin, Texas. I have gotten to work on a variety of cool space projects including autonomous testing software for rocket engines, deep learning for training 👩‍🚀 in hybrid reality, and recently writing software for rockets and spacecraft.
+I am a 🇲🇽 software engineer working in Austin, Texas. I have gotten to work on a variety of cool space projects including autonomous testing software for rocket engines, deep learning for training 👩‍🚀 in hybrid reality, and recently writing software for rockets and spacecraft. I am interested in [TinyML](https://www.tinyml.org/home/), which involves bringing machine intelligence to embedded systems. My hope is to one day be able to bring this technology to spacecraft, which are very computationally limited, and advance the state-of-the-art in spacecraft autonomy.
 
 My hobbies are reading books, collecting vinyl records, going to concerts, and spending time with my girlfriend and 🐶 🐶.
 
