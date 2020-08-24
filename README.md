@@ -3,13 +3,21 @@ ___
 
 Software Engineer at [Emergent Space Technologies](https://www.emergentspace.com/) 🛰️
 
+<a href="https://nasa.gov">
+  <img align="left" alt="I Love NASA" width="21px" src="https://github.com/esduran/esduran/blob/master/assets/2850_Nasa.png" />
+</a>
+
 <a href="https://twitter.com/spacesteban">
   <img align="left" alt="Esteban Duran | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
+<a href="https://linkedin.com/in/estebanduran">
+  <img align="left" alt="Esteban Duran | LinkedIn" width="21px" src="https://github.com/esduran/esduran/blob/master/assets/LI-In-Bug.png" />
+</a>
+
 <br />
 
-## About
+## About 🤖
 
 I am a 🇲🇽 software engineer working in Austin, Texas. I have gotten to work on a variety of cool space projects including autonomous testing software for rocket engines, deep learning for training 👩‍🚀 in hybrid reality, and recently writing software for rockets and spacecraft.
 
