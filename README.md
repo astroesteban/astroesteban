@@ -15,6 +15,10 @@ Software Engineer at [Emergent Space Technologies](https://www.emergentspace.com
   <img align="left" alt="Esteban Duran | LinkedIn" width="21px" src="https://github.com/esduran/esduran/blob/master/assets/LI-In-Bug.png" />
 </a>
 
+<a href="https://discord.com/users/spacesteban#3922">
+  <img align="left" alt="Esteban Duran | Discord" width="21px" src="https://github.com/esduran/esduran/blob/master/assets/Discord-Logo-Color.svg" />
+</a>
+
 <br />
 
 ## About 🤖
