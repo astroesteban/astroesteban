@@ -40,7 +40,7 @@ My hobbies are reading books, collecting vinyl records, going to concerts, and s
 
 ### Professional Development
 
-* [UT.6.10x: Embedded Systems - Shape The World: Microcontroller Input/Output](https://courses.edx.org/certificates/c6af07e151504dc094de87fe2749e3bc), **edX**
+* [UT.6.10x: Embedded Systems - Shape The World: Microcontroller Input/Output](https://courses.edx.org/certificates/c6af07e151504dc094de87fe2749e3bc), **UTAustinX**
 
 ## Projects 👾
 
