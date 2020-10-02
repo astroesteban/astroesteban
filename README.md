@@ -34,6 +34,14 @@ My hobbies are reading books, collecting vinyl records, going to concerts, and s
 * **Machine Learning Intern**, _NASA_, 2018
 * **Software Engineer Intern**, _NASA_, 2016
 
+## Education 🤓
+
+* BSc in Computer Science, **University of Houston-Downtown**, 2017
+
+### Professional Development
+
+* [UT.6.10x: Embedded Systems - Shape The World: Microcontroller Input/Output](https://courses.edx.org/certificates/c6af07e151504dc094de87fe2749e3bc), **edX**
+
 ## Projects 👾
 
 * **[NASA Swarmathon](http://nasaswarmathon.com)**, 2016-2018
