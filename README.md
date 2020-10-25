@@ -1,7 +1,7 @@
 # Hola, I'm Esteban Duran 👋
 ___
 
-Software Engineer at [Emergent Space Technologies](https://www.emergentspace.com/) 🛰️
+Flight Software Engineer at [Emergent Space Technologies](https://www.emergentspace.com/) 🛰️
 
 <a href="https://nasa.gov">
   <img align="left" alt="I Love NASA" width="21px" src="https://github.com/esduran/esduran/blob/master/assets/2850_Nasa.png" />
