@@ -20,7 +20,7 @@ Software Engineer at [Emergent Space Technologies](https://www.emergentspace.com
 </a>
 
 <a href="http://www.twitch.tv/astroesteban">
-  <img align="left" alt="Esteban Duran | Twitch" width="21px" src="https://github.com/esduran/esduran/blob/master/assets/TwitchGlitchPurple.svg" />
+  <img align="left" alt="Esteban Duran | Twitch" width="20px" src="https://github.com/esduran/esduran/blob/master/assets/TwitchGlitchPurple.svg" />
 </a>
 
 
