@@ -29,7 +29,9 @@ Flight Software Engineer at [Emergent Space Technologies](https://www.emergentsp
 
 ## About 🤖
 
-I am a 🇲🇽x🇺🇸 software engineer working in Austin, Texas. I have gotten to work on a variety of cool space projects including autonomous testing software for rocket engines, deep learning for training 👩‍🚀 in hybrid reality, and recently writing software for rockets and spacecraft. I am interested in spacecraft autonomy and helping advance the state-of-the-art in this field.
+I am a 🇲🇽x🇺🇸 software engineer working in Austin, Texas. I have gotten the opportunity to work on a variety of fascinating space-related projects including developing swarm foraging algorithms for deploying robot swarms on Mars, developing autonomous rocket engine testing software, deep learning for training astronauts in mixed reality, and most recently writing flight software for rockets and spacecraft.
+
+My career goal is to contribute to the field of spacecraft autonomy and help advance the state-of-the-art. I would like to one day see neural networks that are safe, explainable, and efficient become an essential part of novel space missions.
 
 My hobbies are reading books, collecting vinyl records, going to concerts, and spending time with my girlfriend and 🐶 🐶.
 
