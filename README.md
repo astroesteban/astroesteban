@@ -39,7 +39,7 @@ My hobbies are reading books, collecting vinyl records, going to concerts, and s
 
 * **Flight Software Engineer**, _Emergent Space Technologies_, 2020-Present
 * **Flight Software Engineer**, _Firefly Aerospace_, 2018-2020
-* **Machine Learning Intern**, _NASA's Johnson Space Center_, 2018
+* **Machine Learning Engineer Intern**, _NASA's Johnson Space Center_, 2018
 * **Software Engineer Intern**, _NASA's Stennis Space Center_, 2016
 
 ## Education 🤓
