@@ -29,7 +29,7 @@ Flight Software Engineer at [Emergent Space Technologies](https://www.emergentsp
 
 ## About 🤖
 
-I’m a software engineer working on flight software for next-generation space exploration vehicles. My expertise includes embedded software, spacecraft autonomy, and artificial intelligence. I enjoy solving challenging problems and pushing the boundaries of what can be done in spacecraft software. My colleagues would describe me as a sharp and driven individual who is genuine and maintains a positive attitude when faced with adversity. Currently, I am working at Emergent Space Technologies developing “mission-critical” flight software for new space missions. Specific fields of interest include spacecraft autonomy and reinforcement learning.
+I’m a software engineer working on flight software for next-generation space exploration vehicles. My expertise includes embedded software, spacecraft autonomy, and artificial intelligence. I enjoy solving challenging problems and pushing the boundaries of what can be done in spacecraft software. My colleagues would describe me as a sharp and driven individual who is genuine and maintains a positive attitude when faced with adversity. Currently, I am working at Emergent Space Technologies developing “mission-critical” flight software for new space missions. Specific fields of interest include spacecraft autonomy and [TinyML](https://www.tinyml.org/home/).
 
 ## Experience 🧑‍💻
 
