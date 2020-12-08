@@ -65,6 +65,7 @@ I’m a software engineer working on flight software for next-generation space e
 ![](https://img.shields.io/badge/-Arduino-informational?style=flat&logo=Arduino&logoColor=white&color=00979D)
 ![](https://img.shields.io/badge/-Raspberry_Pi-informational?style=flat&logo=Raspberry-Pi&logoColor=white&color=C51A4A)
 ![](https://img.shields.io/badge/-Vim-informational?style=flat&logo=Vim&logoColor=white&color=019733)
+![](https://img.shields.io/badge/-Visual_Studio_Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=007ACC)
 
 ___
 
