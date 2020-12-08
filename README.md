@@ -27,33 +27,33 @@ Flight Software Engineer at [Emergent Space Technologies](https://www.emergentsp
 
 <br />
 
-## About 🤖
+## 🤖 About
 
 I’m a software engineer working on flight software for next-generation space exploration vehicles. My expertise includes embedded software, spacecraft autonomy, and artificial intelligence. I enjoy solving challenging problems and pushing the boundaries of what can be done in spacecraft software. My colleagues would describe me as a sharp and driven individual who is genuine and maintains a positive attitude when faced with adversity. Currently, I am working at Emergent Space Technologies developing “mission-critical” flight software for new space missions. Specific fields of interest include spacecraft autonomy and [TinyML](https://www.tinyml.org/home/).
 
-## Experience 🧑‍💻
+## 🧑‍💻 Experience
 
 * **Flight Software Engineer**, _Emergent Space Technologies_, 2020-Present
 * **Flight Software Engineer**, _Firefly Aerospace_, 2018-2020
 * **Machine Learning Engineer Intern**, _NASA's Johnson Space Center_, 2018
 * **Software Engineer Intern**, _NASA's Stennis Space Center_, 2016
 
-## Education 🤓
+## 🤓 Education
 
 * BSc in Computer Science, **University of Houston-Downtown**, 2017
 
-### Professional Development
+### 🧑‍🚀 Professional Development
 
 * [UTAustinX: Embedded Systems - Shape The World: Multi-Threaded Interfacing](), **edX**, In Progress
 
 * [UTAustinX: Embedded Systems - Shape The World: Microcontroller Input/Output](https://courses.edx.org/certificates/c6af07e151504dc094de87fe2749e3bc), **edX**, 2020
 
-## Projects 👾
+## 👾 Projects
 
 * **[NASA Swarmathon](http://nasaswarmathon.com)**, 2016-2018
 * **[NCAS](http://nas.okstate.edu/ncas/)**, 2015
 
-### Programming Languages
+### 🚀 Technologies
 
 <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
