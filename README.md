@@ -59,9 +59,7 @@ I’m a software engineer working on flight software for next-generation space e
 <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 
-![](https://img.shields.io/badge/-Python-informational?style=flat&logo=Python)
-![](https://img.shields.io/badge/-Python-informational?style=for-the-badge&logo=Python&logoColor=white)
-
+![](https://img.shields.io/badge/-Python-informational?style=flat&logo=Python&logoColor=white&color=1565c0)
 
 ___
 
