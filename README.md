@@ -61,7 +61,7 @@ I’m a software engineer working on flight software for next-generation space e
 
 ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=Python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/-C-informational?style=flat&logo=C&logoColor=white&color=A8B9CC)
-
+![](https://img.shields.io/badge/-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=00599C)
 ___
 
 ### Checkout My Projects 👇 (🚧 Currently Remodeling 🚧)
