@@ -40,7 +40,7 @@ I’m a software engineer working on flight software for next-generation space e
 
 ## 🤓 Education
 
-* BSc in Computer Science, **University of Houston-Downtown**, 2017
+* BS in Computer Science, **University of Houston-Downtown**, 2017
 
 ### 🧑‍🚀 Professional Development
 
