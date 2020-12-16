@@ -44,9 +44,9 @@ I’m a software engineer working on flight software for next-generation space e
 
 ### 🧑‍🚀 Professional Development
 
-* [UTAustinX: Embedded Systems - Shape The World: Multi-Threaded Interfacing](), **edX**, In Progress
+* [UT.6.20x: Embedded Systems - Shape The World: Multi-Threaded Interfacing](), **edX**, In Progress
 
-* [UTAustinX: Embedded Systems - Shape The World: Microcontroller Input/Output](https://courses.edx.org/certificates/c6af07e151504dc094de87fe2749e3bc), **edX**, 2020
+* [UT.6.10x: Embedded Systems - Shape The World: Microcontroller Input/Output](https://courses.edx.org/certificates/c6af07e151504dc094de87fe2749e3bc), **edX**, 2020
 
 ## 👾 Projects
 
