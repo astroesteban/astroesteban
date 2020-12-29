@@ -59,4 +59,4 @@ I’m a software engineer working on flight software for next-generation space e
 
 ___
 
-### Checkout My Projects 👇 (🚧 Currently Remodeling 🚧)
+### Checkout My Projects 👇
