@@ -54,6 +54,7 @@ I’m a software engineer working on flight software for next-generation space e
 ![](https://img.shields.io/badge/-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2496ED)
 ![](https://img.shields.io/badge/-CMake-informational?style=flat&logo=CMake&logoColor=white&color=064F8C)
 ![](https://img.shields.io/badge/-cFS-informational?style=flat&logo=NASA&logoColor=E03C31&color=F8F8FF)
+![](https://img.shields.io/badge/-ROS-informational?style=flat&logo=ROS&logoColor=white&color=22314E)
 ![](https://img.shields.io/badge/-TensorFlow-informational?style=flat&logo=TensorFlow&logoColor=white&color=FF6F00)
 ![](https://img.shields.io/badge/-Arduino-informational?style=flat&logo=Arduino&logoColor=white&color=00979D)
 ![](https://img.shields.io/badge/-Raspberry_Pi-informational?style=flat&logo=Raspberry-Pi&logoColor=white&color=C51A4A)
