@@ -19,7 +19,11 @@ Flight Software Engineer at [Emergent Space Technologies](https://www.emergentsp
 
 ## 🤖 About
 
-I’m a software engineer working on flight software for next-generation space exploration vehicles. My expertise includes embedded software, spacecraft autonomy, and artificial intelligence. I enjoy solving challenging problems and pushing the boundaries of what can be done in spacecraft software. My colleagues would describe me as a sharp and driven individual who is genuine and maintains a positive attitude when faced with adversity. Currently, I am working at Emergent Space Technologies developing “mission-critical” flight software for new space missions. Specific fields of interest include spacecraft autonomy and [TinyML](https://www.tinyml.org/home/).
+I'm a Mexican-American 🇲🇽 flight software engineer living in Austin, Texas 🇺🇸 working on next-gen space exploration vehicles 🛰️ at [Emergent Space Technologies](https://www.emergentspace.com). I enjoy solving challenging problems and pushing the boundaries of what can be done in spacecraft software. My colleagues would describe me as a sharp and driven individual who is genuine and maintains a positive attitude when faced with adversity. The technical areas that really fascinate me are embedded software, spacecraft autonomy, and TinyML. 
+
+In my free time I like to spend it with my fiancé and dogs, reading books, listening to vinyl records or working on side projects. 
+
+Feel free to reach out to me via email [📧](mailto:esteban.duran@protonmail.com) or social media. Tambien hablo español.
 
 ## 🧑‍💻 Experience
 
@@ -56,6 +60,5 @@ I’m a software engineer working on flight software for next-generation space e
 ![](https://img.shields.io/badge/-cFS-informational?style=flat&logo=NASA&logoColor=E03C31&color=F8F8FF)
 ![](https://img.shields.io/badge/-ROS-informational?style=flat&logo=ROS&logoColor=white&color=22314E)
 ![](https://img.shields.io/badge/-TensorFlow-informational?style=flat&logo=TensorFlow&logoColor=white&color=FF6F00)
-___
 
-### Checkout My Projects 👇
+
