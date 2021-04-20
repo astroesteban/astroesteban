@@ -59,6 +59,6 @@ Feel free to reach out to me via email [📧](mailto:esteban.duran@protonmail.co
 ![](https://img.shields.io/badge/-CMake-informational?style=flat&logo=CMake&logoColor=white&color=064F8C)
 ![](https://img.shields.io/badge/-cFS-informational?style=flat&logo=NASA&logoColor=E03C31&color=F8F8FF)
 ![](https://img.shields.io/badge/-ROS-informational?style=flat&logo=ROS&logoColor=white&color=22314E)
-![](https://img.shields.io/badge/-Atlassian Suite-informational?style=flat&logo=Atlassian&logoColor=white&color=0052CC)
+![](https://img.shields.io/badge/-Atlassian-informational?style=flat&logo=Atlassian&logoColor=white&color=0052CC)
 
 
