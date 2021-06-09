@@ -35,7 +35,6 @@ Feel free to reach out to me via email [📧](mailto:esteban.duran@protonmail.co
 ## 🤓 Education
 
 * BSc in Computer Science, **University of Houston-Downtown**, 2017
-* Computer Science [Transferred], **Lone Star College**, 2015
 
 ### 🧑‍🚀 Professional Development
 
