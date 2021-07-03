@@ -56,5 +56,5 @@ Feel free to reach out to me via email [📧](mailto:esteban.duran@protonmail.co
 ![](https://img.shields.io/badge/-Linux-informational?style=flat&logo=Linux&logoColor=black&color=FCC624)
 ![](https://img.shields.io/badge/-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2496ED)
 ![](https://img.shields.io/badge/-CMake-informational?style=flat&logo=CMake&logoColor=white&color=064F8C)
-![](https://img.shields.io/badge/-NASA-informational?style=flat&logo=cFS&logoColor=white&color=E03C31)
+![](https://img.shields.io/badge/-cFS-informational?style=flat&logo=NASA&logoColor=white&color=E03C31)
 ![](https://img.shields.io/badge/-Raspberry_Pi-informational?style=flat&logo=Raspberry+Pi&logoColor=white&color=A22846)
