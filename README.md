@@ -1,8 +1,6 @@
 # Hola, I'm Esteban Duran 👋
 ___
 
-Flight Software Engineer at [Emergent Space Technologies](https://www.emergentspace.com/) 🛰️
-
 <a href="https://twitter.com/astroesteban">
   <img align="left" alt="Esteban Duran | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
