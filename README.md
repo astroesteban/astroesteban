@@ -3,10 +3,6 @@ ___
 
 Flight Software Engineer at [Emergent Space Technologies](https://www.emergentspace.com/) 🛰️
 
-<a href="https://nasa.gov">
-  <img align="left" alt="I Love NASA" width="21px" src="https://github.com/esduran/esduran/blob/master/assets/2850_Nasa.png" />
-</a>
-
 <a href="https://twitter.com/astroesteban">
   <img align="left" alt="Esteban Duran | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
@@ -19,7 +15,7 @@ Flight Software Engineer at [Emergent Space Technologies](https://www.emergentsp
 
 ## 🤖 About
 
-I'm a flight software engineer living in Austin, Texas 🇺🇸 working on next-gen space exploration vehicles 🛰️ at [Emergent Space Technologies](https://www.emergentspace.com). I enjoy solving challenging problems and pushing the boundaries of what can be done in spacecraft software. My colleagues would describe me as a sharp and driven individual who is genuine and maintains a positive attitude when faced with adversity. The technical areas that really fascinate me are embedded software, spacecraft autonomy, and TinyML. 
+I'm a software engineer living in Austin, Texas 🇺🇸 working on next-gen space exploration vehicles 🛰️ at [Emergent Space Technologies](https://www.emergentspace.com). I enjoy solving challenging problems and pushing the boundaries of what can be done in spacecraft software. My colleagues would describe me as a sharp and driven individual who is genuine and maintains a positive attitude when faced with adversity. The technical areas that really fascinate me are embedded software, spacecraft autonomy, and TinyML. 
 
 In my free time I like to spend it with my fiancé and dogs, reading books, listening to vinyl records or working on side projects. 
 
