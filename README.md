@@ -17,7 +17,7 @@ I'm a software engineer living in Austin, Texas 🇺🇸 working on next-gen spa
 
 In my free time I like to spend it with my fiancé and dogs, reading books, listening to vinyl records or working on side projects. 
 
-Feel free to reach out to me via email [📧](mailto:esteban.duran@protonmail.com) or social media. Tambien hablo español.
+Feel free to reach out to me via email [📧](mailto:esteban.duran@protonmail.com) or social media. Tambien hablo español 🇲🇽.
 
 ## 🧑‍💻 Experience
 
