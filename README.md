@@ -38,7 +38,7 @@ Feel free to reach out to me via email [📧](mailto:astroesteban@icloud.com) or
 * **[NASA Swarmathon](http://nasaswarmathon.com)**, 2016-2018
 * **[NCAS](http://nas.okstate.edu/ncas/)**, 2015
 
-## Books I'm currently reading 📚
+## 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
 <!-- GOODREADS-LIST:END -->
 
