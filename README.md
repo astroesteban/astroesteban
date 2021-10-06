@@ -41,6 +41,7 @@ Feel free to reach out to me via email [📧](mailto:astroesteban@icloud.com) or
 ## 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
 <!-- GOODREADS-LIST:END -->
+- [There There](https://www.goodreads.com/book/show/36692478-there-there) by Tommy Orange
 
 ### 🚀 Technologies
 
