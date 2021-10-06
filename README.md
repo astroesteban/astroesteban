@@ -43,7 +43,7 @@ Feel free to reach out to me via email [📧](mailto:astroesteban@icloud.com) or
 <!-- GOODREADS-LIST:END -->
 - [There There](https://www.goodreads.com/book/show/36692478-there-there) by Tommy Orange
 
-### 🚀 Technologies
+## 🚀 Technologies
 
 ![](https://img.shields.io/badge/-C-informational?style=flat&logo=C&logoColor=white&color=A8B9CC)
 ![](https://img.shields.io/badge/-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=00599C)
