@@ -38,11 +38,6 @@ Feel free to reach out to me via email [📧](mailto:astroesteban@icloud.com) or
 * **[NASA Swarmathon](http://nasaswarmathon.com)**, 2016-2018
 * **[NCAS](http://nas.okstate.edu/ncas/)**, 2015
 
-## 📚 Books I'm currently reading
-<!-- GOODREADS-LIST:START -->
-<!-- GOODREADS-LIST:END -->
-- [There There](https://www.goodreads.com/book/show/36692478-there-there) by Tommy Orange
-
 ## 🚀 Technologies
 
 ![](https://img.shields.io/badge/-C-informational?style=flat&logo=C&logoColor=white&color=A8B9CC)
