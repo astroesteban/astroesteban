@@ -13,7 +13,7 @@ ___
 
 ## 🤖 About
 
-I'm a software engineer living in Austin, Texas 🇺🇸 working on next-gen space exploration vehicles 🛰️ at [Emergent Space Technologies](https://www.emergentspace.com). I enjoy solving challenging problems and pushing the boundaries of what can be done in spacecraft software. My colleagues would describe me as a sharp and driven individual who is genuine and maintains a positive attitude when faced with adversity. The technical areas that really fascinate me are embedded software, spacecraft autonomy, and TinyML. 
+I'm a software engineer living in Austin, Texas 🇺🇸 working on next-gen space exploration vehicles 🛰️ at [Emergent Space Technologies](https://www.emergentspace.com). I enjoy solving challenging problems and pushing the boundaries of what can be done in spacecraft software. My colleagues would describe me as a sharp and driven individual who is genuine and maintains a positive attitude when faced with adversity. The technical areas that fascinate me are  at the intersection of embedded systems and spacecraft autonomy, specifically embedded machine learning or _TinyML_.
 
 Feel free to reach out to me via email [📧](mailto:astroesteban@icloud.com) or social media. Tambien hablo español 🇲🇽.
 
