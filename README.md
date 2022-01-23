@@ -51,4 +51,3 @@ Feel free to reach out to me via email [📧](mailto:astroesteban@icloud.com) or
 ![](https://img.shields.io/badge/-CMake-informational?style=flat&logo=CMake&logoColor=white&color=064F8C)
 ![](https://img.shields.io/badge/-cFS-informational?style=flat&logo=NASA&logoColor=white&color=E03C31)
 ![](https://img.shields.io/badge/-ROS-informational?style=flat&logo=ROS&logoColor=white&color=22314E)
-![](https://img.shields.io/badge/-F_Prime-informational?style=flat&logo=NASA&logoColor=white&color=E03C31)
