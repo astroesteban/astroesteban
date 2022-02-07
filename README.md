@@ -35,8 +35,7 @@ Feel free to reach out to me via email [📧](mailto:astroesteban@icloud.com) or
 
 ## 👾 Projects
 
-* **[NASA Swarmathon](http://nasaswarmathon.com)**, 2016-2018
-* **[NCAS](http://nas.okstate.edu/ncas/)**, 2015
+* [NASA F'](https://github.com/nasa/fprime), contributor
 
 ## 🚀 Technologies
 
