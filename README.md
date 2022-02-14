@@ -35,7 +35,7 @@ Feel free to reach out to me via email [📧](mailto:astroesteban@icloud.com) or
 
 ## 👾 Projects
 
-* [NASA F'](https://github.com/nasa/fprime), contributor
+* [NASA F´ Flight Software Framework](https://github.com/nasa/fprime), contributor
 
 ## 🚀 Technologies
 
