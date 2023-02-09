@@ -33,10 +33,6 @@ Feel free to reach out to me via email [📧](mailto:astroesteban@icloud.com) or
 * [UTAustinX: Embedded Systems - Shape The World: Multi-Threaded Interfacing](https://courses.edx.org/certificates/4872c29ab4e5458d9784d5b39f85a572), **edX**, 2020
 * [UTAustinX: Embedded Systems - Shape The World: Microcontroller Input/Output](https://courses.edx.org/certificates/c6af07e151504dc094de87fe2749e3bc), **edX**, 2020
 
-## 👾 Projects
-
-* [NASA F´ Flight Software Framework](https://github.com/nasa/fprime), contributor (2021-present)
-
 ## 🚀 Technologies
 
 ![](https://img.shields.io/badge/-C-informational?style=flat&logo=C&logoColor=white&color=A8B9CC)
