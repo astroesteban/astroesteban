@@ -22,7 +22,7 @@ Feel free to reach out to me via email [📧](mailto:astroesteban@icloud.com) or
 * **Senior Flight Software Engineer**, _Emergent Space Technologies_, 2020-Present
 * **Flight Software Engineer**, _Firefly Aerospace_, 2018-2020
 * **Machine Learning Engineer Intern**, _NASA's Johnson Space Center_, 2018
-* **Software Engineer Intern**, _NASA's Stennis Space Center_, 2016
+* **Autonomous Systems Engineer Intern**, _NASA's Stennis Space Center_, 2016
 
 ## 🤓 Education
 
