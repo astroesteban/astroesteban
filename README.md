@@ -18,8 +18,8 @@ I'm a spacecraft software engineer in Austin, Texas 🇺🇸 currently working o
 Feel free to reach out to me via email [📧](mailto:astroesteban@icloud.com) or social media. Tambien hablo español 🇲🇽.
 
 ## 🧑‍💻 Experience
-
-* **Senior Flight Software Engineer**, _Emergent Space Technologies_, 2020-Present
+* **Senior Software Engineer**, _York Space Systems_, 2023-Present
+* **Senior Flight Software Engineer**, _Emergent Space Technologies_, 2020-2023
 * **Flight Software Engineer**, _Firefly Aerospace_, 2018-2020
 * **Machine Learning Engineer Intern**, _NASA's Johnson Space Center_, 2018
 * **Autonomous Systems Engineer Intern**, _NASA's Stennis Space Center_, 2016
