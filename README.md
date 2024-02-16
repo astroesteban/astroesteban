@@ -13,7 +13,7 @@ ___
 
 ## 🤖 About
 
-I'm a spacecraft software engineer in Austin, Texas 🇺🇸 currently working on multi-spacecraft autonomy 🛰️ at [Emergent Space Technologies](https://www.emergentspace.com). I enjoy solving challenging problems and pushing the boundaries of what can be done in spacecraft software. My colleagues would describe me as a sharp and driven individual who is genuine and maintains a positive attitude when faced with adversity. I am fascinated with spacecraft autonomy and artificial intelligence to aid humanity explore the cosmos.
+I'm a spacecraft software engineer in Austin, Texas 🇺🇸 currently working on multi-spacecraft autonomy 🛰️ at [York Space Systems](https://www.yorkspacesystems.com). I enjoy solving challenging problems and pushing the boundaries of what can be done in spacecraft software. My colleagues would describe me as a sharp and driven individual who is genuine and maintains a positive attitude when faced with adversity. I am fascinated with spacecraft autonomy and artificial intelligence to aid humanity explore the cosmos.
 
 Feel free to reach out to me via email [📧](mailto:astroesteban@icloud.com) or social media. Tambien hablo español 🇲🇽.
 
